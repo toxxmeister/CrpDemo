@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">CRP Demo</string>
-    <string name="permission_fail">Cannot proceed without the requested permissions.</string>
+  <string name="app_name">CRP Demo</string>
+  <string name="permission_fail">Cannot proceed without the requested permissions.</string>
 </resources>
